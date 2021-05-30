@@ -1,0 +1,8 @@
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\bin\Debug\PieChart.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\bin\Debug\PieChart.pdb
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\obj\Debug\PieChart.Form1.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\obj\Debug\PieChart.csproj.GenerateResource.Cache
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\obj\Debug\PieChart.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\Lesson3-Exercise1-PieChart-CS\PieChart\obj\Debug\PieChart.pdb

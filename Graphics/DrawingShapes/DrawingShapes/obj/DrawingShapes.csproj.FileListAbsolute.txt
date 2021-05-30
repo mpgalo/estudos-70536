@@ -1,0 +1,8 @@
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\bin\Debug\DrawingShapes.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\bin\Debug\DrawingShapes.pdb
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\obj\Debug\DrawingShapes.Form1.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\obj\Debug\DrawingShapes.Properties.Resources.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\obj\Debug\DrawingShapes.csproj.GenerateResource.Cache
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\obj\Debug\DrawingShapes.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\DrawingShapes\DrawingShapes\obj\Debug\DrawingShapes.pdb

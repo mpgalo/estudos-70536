@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\SortString\SortString\bin\Debug\SortString.exe
+C:\Projetos\Estudos\FrameworkFundamentals\SortString\SortString\bin\Debug\SortString.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\SortString\SortString\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\SortString\SortString\obj\Debug\SortString.exe
+C:\Projetos\Estudos\FrameworkFundamentals\SortString\SortString\obj\Debug\SortString.pdb

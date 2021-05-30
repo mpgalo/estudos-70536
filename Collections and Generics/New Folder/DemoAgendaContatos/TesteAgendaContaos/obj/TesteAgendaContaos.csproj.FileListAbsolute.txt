@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\bin\Debug\TesteAgendaContaos.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\bin\Debug\TesteAgendaContaos.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\bin\Debug\AgendaContatos.dll
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\bin\Debug\AgendaContatos.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\obj\Debug\TesteAgendaContaos.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample2\DemoAgendaContatos\TesteAgendaContaos\obj\Debug\TesteAgendaContaos.pdb

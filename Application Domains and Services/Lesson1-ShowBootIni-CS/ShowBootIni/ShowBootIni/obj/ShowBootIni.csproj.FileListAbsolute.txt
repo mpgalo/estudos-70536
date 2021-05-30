@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Application Domains and Services\Lesson1-ShowBootIni-CS\ShowBootIni\ShowBootIni\bin\Debug\ShowBootIni.exe
+C:\Projetos\ESTUDOS\70-536\Application Domains and Services\Lesson1-ShowBootIni-CS\ShowBootIni\ShowBootIni\bin\Debug\ShowBootIni.pdb
+C:\Projetos\ESTUDOS\70-536\Application Domains and Services\Lesson1-ShowBootIni-CS\ShowBootIni\ShowBootIni\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Application Domains and Services\Lesson1-ShowBootIni-CS\ShowBootIni\ShowBootIni\obj\Debug\ShowBootIni.exe
+C:\Projetos\ESTUDOS\70-536\Application Domains and Services\Lesson1-ShowBootIni-CS\ShowBootIni\ShowBootIni\obj\Debug\ShowBootIni.pdb

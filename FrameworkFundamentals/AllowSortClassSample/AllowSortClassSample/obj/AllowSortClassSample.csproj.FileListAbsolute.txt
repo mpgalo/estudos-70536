@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\AllowSortClassSample\AllowSortClassSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\AllowSortClassSample\AllowSortClassSample\bin\Debug\AllowSortClassSample.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\AllowSortClassSample\AllowSortClassSample\bin\Debug\AllowSortClassSample.pdb
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\AllowSortClassSample\AllowSortClassSample\obj\Debug\AllowSortClassSample.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\AllowSortClassSample\AllowSortClassSample\obj\Debug\AllowSortClassSample.pdb

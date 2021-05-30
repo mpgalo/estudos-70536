@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericStackQueueSample\GenericStackQueueSample\bin\Debug\GenericStackQueueSample.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericStackQueueSample\GenericStackQueueSample\bin\Debug\GenericStackQueueSample.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericStackQueueSample\GenericStackQueueSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericStackQueueSample\GenericStackQueueSample\obj\Debug\GenericStackQueueSample.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericStackQueueSample\GenericStackQueueSample\obj\Debug\GenericStackQueueSample.pdb

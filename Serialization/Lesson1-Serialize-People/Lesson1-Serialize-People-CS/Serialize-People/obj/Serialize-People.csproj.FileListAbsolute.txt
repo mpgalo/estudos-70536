@@ -1,0 +1,10 @@
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleSoapFormatter\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.exe
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleSoapFormatter\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.pdb
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleSoapFormatter\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleSoapFormatter\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.exe
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleSoapFormatter\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.pdb
+C:\Projetos\Estudos\70-536\Serialization\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.exe
+C:\Projetos\Estudos\70-536\Serialization\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\Serialize-People.pdb
+C:\Projetos\Estudos\70-536\Serialization\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.exe
+C:\Projetos\Estudos\70-536\Serialization\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\bin\Debug\Serialize-People.pdb
+C:\Projetos\Estudos\70-536\Serialization\Lesson1-Serialize-People\Lesson1-Serialize-People-CS\Serialize-People\obj\Debug\ResolveAssemblyReference.cache

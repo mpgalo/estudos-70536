@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+C:\Projetos\ESTUDOS\70-536\Threading\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+C:\Projetos\ESTUDOS\70-536\Threading\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb

@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\InputOutput (IO)\Path\Path\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\Path\Path\bin\Debug\Path.exe
+C:\Projetos\Estudos\InputOutput (IO)\Path\Path\bin\Debug\Path.pdb
+C:\Projetos\Estudos\InputOutput (IO)\Path\Path\obj\Debug\Path.exe
+C:\Projetos\Estudos\InputOutput (IO)\Path\Path\obj\Debug\Path.pdb

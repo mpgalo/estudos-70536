@@ -1,0 +1,9 @@
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\bin\Debug\TesteRendimentoEscolar.exe
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\bin\Debug\TesteRendimentoEscolar.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\bin\Debug\RendimentoEscolar.dll
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\bin\Debug\RendimentoEscolar.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\obj\Debug\TesteRendimentoEscolar.exe
+C:\Projetos\Estudos\FrameworkFundamentals\RendimentoEscolar\TesteRendimentoEscolar\obj\Debug\TesteRendimentoEscolar.pdb
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\MetodosAnonimos_Delegates\TesteRendimentoEscolar\obj\Debug\TesteRendimentoEscolar.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\MetodosAnonimos_Delegates\TesteRendimentoEscolar\obj\Debug\TesteRendimentoEscolar.pdb

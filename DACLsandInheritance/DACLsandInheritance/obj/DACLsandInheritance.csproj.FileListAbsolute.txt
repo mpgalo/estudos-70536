@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter12\DACLsandInheritance\DACLsandInheritance\bin\Debug\DACLsandInheritance.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter12\DACLsandInheritance\DACLsandInheritance\bin\Debug\DACLsandInheritance.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter12\DACLsandInheritance\DACLsandInheritance\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter12\DACLsandInheritance\DACLsandInheritance\obj\Debug\DACLsandInheritance.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter12\DACLsandInheritance\DACLsandInheritance\obj\Debug\DACLsandInheritance.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter11\DeclarativeImperativeCAS\DeclarativeImperativeCAS\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter11\DeclarativeImperativeCAS\DeclarativeImperativeCAS\bin\Debug\DeclarativeImperativeCAS.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter11\DeclarativeImperativeCAS\DeclarativeImperativeCAS\bin\Debug\DeclarativeImperativeCAS.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter11\DeclarativeImperativeCAS\DeclarativeImperativeCAS\obj\Debug\DeclarativeImperativeCAS.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter11\DeclarativeImperativeCAS\DeclarativeImperativeCAS\obj\Debug\DeclarativeImperativeCAS.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\bin\Debug\Cards.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\bin\Debug\Cards.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\obj\Debug\Cards.Properties.Resources.resources
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\obj\Debug\Cards.csproj.GenerateResource.Cache
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\obj\Debug\Cards.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\Cards\Cards\obj\Debug\Cards.pdb

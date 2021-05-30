@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\ArraySorting\ArraySorting\bin\Debug\ArraySorting.exe
+C:\Projetos\Estudos\FrameworkFundamentals\ArraySorting\ArraySorting\bin\Debug\ArraySorting.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\ArraySorting\ArraySorting\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\ArraySorting\ArraySorting\obj\Debug\ArraySorting.exe
+C:\Projetos\Estudos\FrameworkFundamentals\ArraySorting\ArraySorting\obj\Debug\ArraySorting.pdb

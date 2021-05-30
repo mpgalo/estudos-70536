@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\StringCollection\StringCollection\bin\Debug\StringCollection.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\StringCollection\StringCollection\bin\Debug\StringCollection.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\StringCollection\StringCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\StringCollection\StringCollection\obj\Debug\StringCollection.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\StringCollection\StringCollection\obj\Debug\StringCollection.pdb

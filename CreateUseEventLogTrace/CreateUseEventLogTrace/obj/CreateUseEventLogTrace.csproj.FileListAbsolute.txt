@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\CreateUseEventLogTrace\CreateUseEventLogTrace\bin\Debug\CreateUseEventLogTrace.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\CreateUseEventLogTrace\CreateUseEventLogTrace\bin\Debug\CreateUseEventLogTrace.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\CreateUseEventLogTrace\CreateUseEventLogTrace\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\CreateUseEventLogTrace\CreateUseEventLogTrace\obj\Debug\CreateUseEventLogTrace.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\CreateUseEventLogTrace\CreateUseEventLogTrace\obj\Debug\CreateUseEventLogTrace.pdb

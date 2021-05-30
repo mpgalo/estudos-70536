@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CustomInstallerDemo", "CustomInstallerDemo\CustomInstallerDemo.vdproj", "{559D7CF6-30B4-4574-80D4-CC61FF44EB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559D7CF6-30B4-4574-80D4-CC61FF44EB7A}.Debug|Default.ActiveCfg = Debug
+		{559D7CF6-30B4-4574-80D4-CC61FF44EB7A}.Debug|Default.Build.0 = Debug
+		{559D7CF6-30B4-4574-80D4-CC61FF44EB7A}.Release|Default.ActiveCfg = Release
+		{559D7CF6-30B4-4574-80D4-CC61FF44EB7A}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

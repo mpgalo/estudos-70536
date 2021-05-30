@@ -1,0 +1,10 @@
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\Lesson1-Exercise1-CS\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\VeryfyAndReformatStringRegex\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\VeryfyAndReformatStringRegex\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\VeryfyAndReformatStringRegex\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\VeryfyAndReformatStringRegex\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\VeryfyAndReformatStringRegex\Lesson1-Exercise1-CS\obj\Debug\ResolveAssemblyReference.cache

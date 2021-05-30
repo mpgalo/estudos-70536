@@ -1,0 +1,7 @@
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\bin\Debug\ConsoleInstalator.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\bin\Debug\ConsoleInstalator.pdb
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\obj\Debug\ConsoleInstalator.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\obj\Debug\ConsoleInstalator.pdb
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\bin\Debug\InstallerDemo.dll
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\ConsoleInstalator\bin\Debug\InstallerDemo.pdb

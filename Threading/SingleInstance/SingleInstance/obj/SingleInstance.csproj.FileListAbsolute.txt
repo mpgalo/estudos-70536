@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe
+C:\Projetos\ESTUDOS\70-536\Threading\SingleInstance\SingleInstance\bin\Debug\SingleInstance.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\SingleInstance\SingleInstance\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\SingleInstance\SingleInstance\obj\Debug\SingleInstance.exe
+C:\Projetos\ESTUDOS\70-536\Threading\SingleInstance\SingleInstance\obj\Debug\SingleInstance.pdb

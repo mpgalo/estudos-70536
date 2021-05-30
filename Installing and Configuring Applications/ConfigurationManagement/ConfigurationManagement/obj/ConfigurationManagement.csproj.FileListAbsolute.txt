@@ -1,0 +1,6 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConfigurationManagement\ConfigurationManagement\bin\Debug\ConfigurationManagement.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConfigurationManagement\ConfigurationManagement\bin\Debug\ConfigurationManagement.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConfigurationManagement\ConfigurationManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConfigurationManagement\ConfigurationManagement\obj\Debug\ConfigurationManagement.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConfigurationManagement\ConfigurationManagement\obj\Debug\ConfigurationManagement.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConfigurationManagement\ConfigurationManagement\bin\Debug\ConfigurationManagement.exe.config

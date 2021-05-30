@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSample\BasicSerializationSample\bin\Debug\BasicSerializationSample.exe
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSample\BasicSerializationSample\bin\Debug\BasicSerializationSample.pdb
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSample\BasicSerializationSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSample\BasicSerializationSample\obj\Debug\BasicSerializationSample.exe
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSample\BasicSerializationSample\obj\Debug\BasicSerializationSample.pdb
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleBinaryFormatter\BasicSerializationSample\obj\Debug\BasicSerializationSample.exe
+C:\Projetos\Estudos\70-536\Serialization\BasicSerializationSampleBinaryFormatter\BasicSerializationSample\obj\Debug\BasicSerializationSample.pdb

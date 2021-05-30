@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\InputOutput (IO)\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+C:\Projetos\Estudos\InputOutput (IO)\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+C:\Projetos\Estudos\InputOutput (IO)\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+C:\Projetos\Estudos\InputOutput (IO)\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb

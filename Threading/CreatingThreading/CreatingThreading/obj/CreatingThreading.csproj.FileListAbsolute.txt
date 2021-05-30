@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\CreatingThreading\CreatingThreading\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\CreatingThreading\CreatingThreading\bin\Debug\CreatingThreading.exe
+C:\Projetos\ESTUDOS\70-536\Threading\CreatingThreading\CreatingThreading\bin\Debug\CreatingThreading.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\CreatingThreading\CreatingThreading\obj\Debug\CreatingThreading.exe
+C:\Projetos\ESTUDOS\70-536\Threading\CreatingThreading\CreatingThreading\obj\Debug\CreatingThreading.pdb

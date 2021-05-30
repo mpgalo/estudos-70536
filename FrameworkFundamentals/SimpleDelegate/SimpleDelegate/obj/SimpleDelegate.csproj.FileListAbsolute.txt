@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.exe
+C:\Projetos\Estudos\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Projetos\Estudos\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\SimpleDelegate\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Collections and Generics\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\Projetos\Estudos\Collections and Generics\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\Projetos\Estudos\Collections and Generics\DictionaryCollections\DictionaryCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Collections and Generics\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\Projetos\Estudos\Collections and Generics\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

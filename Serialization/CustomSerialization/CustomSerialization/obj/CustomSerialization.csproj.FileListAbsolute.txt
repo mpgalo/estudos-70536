@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Serialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.exe
+C:\Projetos\Estudos\70-536\Serialization\CustomSerialization\CustomSerialization\bin\Debug\CustomSerialization.pdb
+C:\Projetos\Estudos\70-536\Serialization\CustomSerialization\CustomSerialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Serialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.exe
+C:\Projetos\Estudos\70-536\Serialization\CustomSerialization\CustomSerialization\obj\Debug\CustomSerialization.pdb

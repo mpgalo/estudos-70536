@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\obj\Debug\Indexers.Properties.Resources.resources
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\obj\Debug\Indexers.csproj.GenerateResource.Cache
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\Indexers\Indexers\obj\Debug\Indexers.pdb

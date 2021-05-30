@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Collections and Generics\BitVector32Sample\BitVector32Sample\bin\Debug\BitVector32Sample.exe
+C:\Projetos\Estudos\Collections and Generics\BitVector32Sample\BitVector32Sample\bin\Debug\BitVector32Sample.pdb
+C:\Projetos\Estudos\Collections and Generics\BitVector32Sample\BitVector32Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Collections and Generics\BitVector32Sample\BitVector32Sample\obj\Debug\BitVector32Sample.exe
+C:\Projetos\Estudos\Collections and Generics\BitVector32Sample\BitVector32Sample\obj\Debug\BitVector32Sample.pdb

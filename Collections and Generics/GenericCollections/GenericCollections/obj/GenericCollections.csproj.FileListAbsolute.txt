@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericCollections\GenericCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

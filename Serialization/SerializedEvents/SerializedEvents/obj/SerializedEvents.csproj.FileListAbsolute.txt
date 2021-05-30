@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Serialization\SerializedEvents\SerializedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Serialization\SerializedEvents\SerializedEvents\bin\Debug\SerializedEvents.exe
+C:\Projetos\Estudos\70-536\Serialization\SerializedEvents\SerializedEvents\bin\Debug\SerializedEvents.pdb
+C:\Projetos\Estudos\70-536\Serialization\SerializedEvents\SerializedEvents\obj\Debug\SerializedEvents.exe
+C:\Projetos\Estudos\70-536\Serialization\SerializedEvents\SerializedEvents\obj\Debug\SerializedEvents.pdb

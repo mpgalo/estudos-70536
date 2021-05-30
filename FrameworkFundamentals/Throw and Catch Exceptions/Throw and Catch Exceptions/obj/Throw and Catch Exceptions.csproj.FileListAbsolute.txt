@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\Throw and Catch Exceptions\Throw and Catch Exceptions\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\Throw and Catch Exceptions\Throw and Catch Exceptions\bin\Debug\Throw and Catch Exceptions.exe
+C:\Projetos\Estudos\FrameworkFundamentals\Throw and Catch Exceptions\Throw and Catch Exceptions\bin\Debug\Throw and Catch Exceptions.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\Throw and Catch Exceptions\Throw and Catch Exceptions\obj\Debug\Throw and Catch Exceptions.exe
+C:\Projetos\Estudos\FrameworkFundamentals\Throw and Catch Exceptions\Throw and Catch Exceptions\obj\Debug\Throw and Catch Exceptions.pdb

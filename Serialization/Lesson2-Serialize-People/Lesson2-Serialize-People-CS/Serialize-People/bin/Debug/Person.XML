@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Tony</name>
+  <dateOfBirth>1923-04-22T00:00:00</dateOfBirth>
+  <age>84</age>
+</Person>

@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\ExStructs\ExStructs\bin\Debug\ExStructs.exe
+C:\Projetos\Estudos\FrameworkFundamentals\ExStructs\ExStructs\bin\Debug\ExStructs.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\ExStructs\ExStructs\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\ExStructs\ExStructs\obj\Debug\ExStructs.exe
+C:\Projetos\Estudos\FrameworkFundamentals\ExStructs\ExStructs\obj\Debug\ExStructs.pdb

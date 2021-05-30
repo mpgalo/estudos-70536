@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\InputOutput (IO)\EscreverEmAqruivo\EscreverEmAqruivo\bin\Debug\EscreverEmAqruivo.exe
+C:\Projetos\Estudos\InputOutput (IO)\EscreverEmAqruivo\EscreverEmAqruivo\bin\Debug\EscreverEmAqruivo.pdb
+C:\Projetos\Estudos\InputOutput (IO)\EscreverEmAqruivo\EscreverEmAqruivo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\EscreverEmAqruivo\EscreverEmAqruivo\obj\Debug\EscreverEmAqruivo.exe
+C:\Projetos\Estudos\InputOutput (IO)\EscreverEmAqruivo\EscreverEmAqruivo\obj\Debug\EscreverEmAqruivo.pdb

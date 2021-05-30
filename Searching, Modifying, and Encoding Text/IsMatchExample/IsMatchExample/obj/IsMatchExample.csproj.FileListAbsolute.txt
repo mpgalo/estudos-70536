@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\IsMatchExample\IsMatchExample\bin\Debug\IsMatchExample.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\IsMatchExample\IsMatchExample\bin\Debug\IsMatchExample.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\IsMatchExample\IsMatchExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\IsMatchExample\IsMatchExample\obj\Debug\IsMatchExample.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\IsMatchExample\IsMatchExample\obj\Debug\IsMatchExample.pdb

@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\InputOutput (IO)\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+C:\Projetos\Estudos\InputOutput (IO)\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+C:\Projetos\Estudos\InputOutput (IO)\FileDemo\FileDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+C:\Projetos\Estudos\InputOutput (IO)\FileDemo\FileDemo\obj\Debug\FileDemo.pdb

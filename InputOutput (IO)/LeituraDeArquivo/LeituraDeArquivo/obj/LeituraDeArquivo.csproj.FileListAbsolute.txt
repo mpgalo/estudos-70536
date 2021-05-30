@@ -1,0 +1,10 @@
+C:\Projetos\Estudos\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\bin\Debug\LeituraDeArquivo.exe
+C:\Projetos\Estudos\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\bin\Debug\LeituraDeArquivo.pdb
+C:\Projetos\Estudos\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\obj\Debug\LeituraDeArquivo.exe
+C:\Projetos\Estudos\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\obj\Debug\LeituraDeArquivo.pdb
+C:\Projetos\ESTUDOS\70-536\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\obj\Debug\LeituraDeArquivo.exe
+C:\Projetos\ESTUDOS\70-536\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\obj\Debug\LeituraDeArquivo.pdb
+C:\Projetos\ESTUDOS\70-536\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\bin\Debug\LeituraDeArquivo.exe
+C:\Projetos\ESTUDOS\70-536\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\bin\Debug\LeituraDeArquivo.pdb
+C:\Projetos\ESTUDOS\70-536\InputOutput (IO)\LeituraDeArquivo\LeituraDeArquivo\obj\Debug\ResolveAssemblyReference.cache

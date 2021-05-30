@@ -1,0 +1,10 @@
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ApplicationLogDemo\ApplicationLogDemo\bin\Debug\ApplicationLogDemo.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ApplicationLogDemo\ApplicationLogDemo\bin\Debug\ApplicationLogDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ApplicationLogDemo\ApplicationLogDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ApplicationLogDemo\ApplicationLogDemo\obj\Debug\ApplicationLogDemo.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ApplicationLogDemo\ApplicationLogDemo\obj\Debug\ApplicationLogDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Instrumentation\ApplicationLogDemo\ApplicationLogDemo\obj\Debug\ApplicationLogDemo.exe
+C:\Projetos\ESTUDOS\70-536\Instrumentation\ApplicationLogDemo\ApplicationLogDemo\obj\Debug\ApplicationLogDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Instrumentation\ApplicationLogDemo\ApplicationLogDemo\bin\Debug\ApplicationLogDemo.exe
+C:\Projetos\ESTUDOS\70-536\Instrumentation\ApplicationLogDemo\ApplicationLogDemo\bin\Debug\ApplicationLogDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Instrumentation\ApplicationLogDemo\ApplicationLogDemo\obj\Debug\ResolveAssemblyReference.cache

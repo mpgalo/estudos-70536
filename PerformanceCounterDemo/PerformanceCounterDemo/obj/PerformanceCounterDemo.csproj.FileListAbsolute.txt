@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\PerformanceCounterDemo\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\PerformanceCounterDemo\PerformanceCounterDemo\bin\Debug\PerformanceCounterDemo.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\PerformanceCounterDemo\PerformanceCounterDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\PerformanceCounterDemo\PerformanceCounterDemo\obj\Debug\PerformanceCounterDemo.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\PerformanceCounterDemo\PerformanceCounterDemo\obj\Debug\PerformanceCounterDemo.pdb

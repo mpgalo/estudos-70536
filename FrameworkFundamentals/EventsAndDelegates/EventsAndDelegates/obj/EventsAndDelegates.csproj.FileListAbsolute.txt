@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\EventsAndDelegates\EventsAndDelegates\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

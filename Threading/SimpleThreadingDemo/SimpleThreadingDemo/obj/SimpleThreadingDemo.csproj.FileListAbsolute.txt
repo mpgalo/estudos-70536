@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe
+C:\Projetos\ESTUDOS\70-536\Threading\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.exe
+C:\Projetos\ESTUDOS\70-536\Threading\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.pdb

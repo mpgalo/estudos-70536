@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ManagementEvents\ManagementEvents\bin\Debug\ManagementEvents.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ManagementEvents\ManagementEvents\bin\Debug\ManagementEvents.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ManagementEvents\ManagementEvents\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ManagementEvents\ManagementEvents\obj\Debug\ManagementEvents.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ManagementEvents\ManagementEvents\obj\Debug\ManagementEvents.pdb

@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\LookupCollections\LookupCollections\bin\Debug\LookupCollections.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\LookupCollections\LookupCollections\bin\Debug\LookupCollections.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\LookupCollections\LookupCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\LookupCollections\LookupCollections\obj\Debug\LookupCollections.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\LookupCollections\LookupCollections\obj\Debug\LookupCollections.pdb

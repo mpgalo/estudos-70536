@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ProcessManipulating\ProcessManipulating\bin\Debug\ProcessManipulating.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ProcessManipulating\ProcessManipulating\bin\Debug\ProcessManipulating.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ProcessManipulating\ProcessManipulating\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ProcessManipulating\ProcessManipulating\obj\Debug\ProcessManipulating.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\ProcessManipulating\ProcessManipulating\obj\Debug\ProcessManipulating.pdb

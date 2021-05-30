@@ -1,0 +1,6 @@
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConfigSettingsDemo\ConfigSettingsDemo\bin\Debug\ConfigSettingsDemo.exe.config
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConfigSettingsDemo\ConfigSettingsDemo\bin\Debug\ConfigSettingsDemo.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConfigSettingsDemo\ConfigSettingsDemo\bin\Debug\ConfigSettingsDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConfigSettingsDemo\ConfigSettingsDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConfigSettingsDemo\ConfigSettingsDemo\obj\Debug\ConfigSettingsDemo.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConfigSettingsDemo\ConfigSettingsDemo\obj\Debug\ConfigSettingsDemo.pdb

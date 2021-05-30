@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\InputOutput (IO)\DriveInfo\DriveInfo\bin\Debug\DriveInfo.exe
+C:\Projetos\Estudos\InputOutput (IO)\DriveInfo\DriveInfo\bin\Debug\DriveInfo.pdb
+C:\Projetos\Estudos\InputOutput (IO)\DriveInfo\DriveInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\DriveInfo\DriveInfo\obj\Debug\DriveInfo.exe
+C:\Projetos\Estudos\InputOutput (IO)\DriveInfo\DriveInfo\obj\Debug\DriveInfo.pdb

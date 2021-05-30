@@ -1,0 +1,10 @@
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\bin\Debug\DebuggingAndTraceDemo.exe
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\bin\Debug\DebuggingAndTraceDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\obj\Debug\DebuggingAndTraceDemo.exe
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\obj\Debug\DebuggingAndTraceDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\bin\Release\DebuggingAndTraceDemo.exe
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\bin\Release\DebuggingAndTraceDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\obj\Release\DebuggingAndTraceDemo.exe
+C:\Projetos\ESTUDOS\70-536\Instrumentation\DebuggingAndTraceDemo\DebuggingAndTraceDemo\obj\Release\DebuggingAndTraceDemo.pdb

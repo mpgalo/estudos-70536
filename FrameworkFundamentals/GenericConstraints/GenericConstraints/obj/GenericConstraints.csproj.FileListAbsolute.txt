@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\GenericConstraints\GenericConstraints\bin\Debug\GenericConstraints.exe
+C:\Projetos\Estudos\FrameworkFundamentals\GenericConstraints\GenericConstraints\bin\Debug\GenericConstraints.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\GenericConstraints\GenericConstraints\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\GenericConstraints\GenericConstraints\obj\Debug\GenericConstraints.exe
+C:\Projetos\Estudos\FrameworkFundamentals\GenericConstraints\GenericConstraints\obj\Debug\GenericConstraints.pdb

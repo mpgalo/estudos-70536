@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\Pratics\Pratics\bin\Debug\Pratics.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\Pratics\Pratics\bin\Debug\Pratics.pdb
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\Pratics\Pratics\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\Pratics\Pratics\obj\Debug\Pratics.exe
+C:\Projetos\Estudos\70-536\FrameworkFundamentals\Pratics\Pratics\obj\Debug\Pratics.pdb

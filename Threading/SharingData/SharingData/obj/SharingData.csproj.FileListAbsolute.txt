@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\SharingData\SharingData\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\SharingData\SharingData\bin\Debug\SharingData.exe
+C:\Projetos\ESTUDOS\70-536\Threading\SharingData\SharingData\bin\Debug\SharingData.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\SharingData\SharingData\obj\Debug\SharingData.exe
+C:\Projetos\ESTUDOS\70-536\Threading\SharingData\SharingData\obj\Debug\SharingData.pdb

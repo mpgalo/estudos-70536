@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\Streams\Streams\bin\Debug\Streams.exe
+C:\Projetos\Estudos\FrameworkFundamentals\Streams\Streams\bin\Debug\Streams.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\Streams\Streams\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\Streams\Streams\obj\Debug\Streams.exe
+C:\Projetos\Estudos\FrameworkFundamentals\Streams\Streams\obj\Debug\Streams.pdb

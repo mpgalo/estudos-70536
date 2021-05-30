@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\FrameworkFundamentals\List-Value-Types\List-Value-Types\bin\Debug\List-Value-Types.exe
+C:\Projetos\Estudos\FrameworkFundamentals\List-Value-Types\List-Value-Types\bin\Debug\List-Value-Types.pdb
+C:\Projetos\Estudos\FrameworkFundamentals\List-Value-Types\List-Value-Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\FrameworkFundamentals\List-Value-Types\List-Value-Types\obj\Debug\List-Value-Types.exe
+C:\Projetos\Estudos\FrameworkFundamentals\List-Value-Types\List-Value-Types\obj\Debug\List-Value-Types.pdb

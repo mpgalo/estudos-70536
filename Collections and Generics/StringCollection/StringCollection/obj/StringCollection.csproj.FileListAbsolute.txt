@@ -1,0 +1,1 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\StringCollection\StringCollection\obj\Debug\ResolveAssemblyReference.cache

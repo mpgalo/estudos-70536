@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe
+C:\Projetos\ESTUDOS\70-536\Threading\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.exe
+C:\Projetos\ESTUDOS\70-536\Threading\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.pdb

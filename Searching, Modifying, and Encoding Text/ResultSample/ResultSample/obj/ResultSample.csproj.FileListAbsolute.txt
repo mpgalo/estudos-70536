@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\ResultSample\ResultSample\bin\Debug\ResultSample.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\ResultSample\ResultSample\bin\Debug\ResultSample.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\ResultSample\ResultSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\ResultSample\ResultSample\obj\Debug\ResultSample.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\ResultSample\ResultSample\obj\Debug\ResultSample.pdb

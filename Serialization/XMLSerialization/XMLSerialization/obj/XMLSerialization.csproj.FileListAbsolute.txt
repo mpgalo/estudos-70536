@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Serialization\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+C:\Projetos\Estudos\70-536\Serialization\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+C:\Projetos\Estudos\70-536\Serialization\XMLSerialization\XMLSerialization\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Serialization\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+C:\Projetos\Estudos\70-536\Serialization\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb

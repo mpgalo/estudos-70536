@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\TestEncoding\TestEncoding\bin\Debug\TestEncoding.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\TestEncoding\TestEncoding\bin\Debug\TestEncoding.pdb
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\TestEncoding\TestEncoding\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\TestEncoding\TestEncoding\obj\Debug\TestEncoding.exe
+C:\Projetos\Estudos\Searching, Modifying, and Encoding Text\TestEncoding\TestEncoding\obj\Debug\TestEncoding.pdb

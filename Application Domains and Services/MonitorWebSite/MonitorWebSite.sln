@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorWebSite", "MonitorWebSite\MonitorWebSite.csproj", "{01191A29-C8D8-4DAB-918C-BD3A7F107600}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MonitorWebSiteSetup", "MonitorWebSiteSetup\MonitorWebSiteSetup.vdproj", "{6C6CCEBB-8DF1-4B69-8A3F-60EBDE3214C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01191A29-C8D8-4DAB-918C-BD3A7F107600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01191A29-C8D8-4DAB-918C-BD3A7F107600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01191A29-C8D8-4DAB-918C-BD3A7F107600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01191A29-C8D8-4DAB-918C-BD3A7F107600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6CCEBB-8DF1-4B69-8A3F-60EBDE3214C1}.Debug|Any CPU.ActiveCfg = Debug
+		{6C6CCEBB-8DF1-4B69-8A3F-60EBDE3214C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

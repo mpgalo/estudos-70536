@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\InputOutput (IO)\MemoryStreamExample\MemoryStreamExample\bin\Debug\MemoryStreamExample.exe
+C:\Projetos\Estudos\InputOutput (IO)\MemoryStreamExample\MemoryStreamExample\bin\Debug\MemoryStreamExample.pdb
+C:\Projetos\Estudos\InputOutput (IO)\MemoryStreamExample\MemoryStreamExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\InputOutput (IO)\MemoryStreamExample\MemoryStreamExample\obj\Debug\MemoryStreamExample.exe
+C:\Projetos\Estudos\InputOutput (IO)\MemoryStreamExample\MemoryStreamExample\obj\Debug\MemoryStreamExample.pdb

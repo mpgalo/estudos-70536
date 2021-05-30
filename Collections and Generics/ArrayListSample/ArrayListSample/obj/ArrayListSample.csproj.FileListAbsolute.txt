@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Collections and Generics\ArrayListSample\ArrayListSample\bin\Debug\ArrayListSample.exe
+C:\Projetos\Estudos\Collections and Generics\ArrayListSample\ArrayListSample\bin\Debug\ArrayListSample.pdb
+C:\Projetos\Estudos\Collections and Generics\ArrayListSample\ArrayListSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Collections and Generics\ArrayListSample\ArrayListSample\obj\Debug\ArrayListSample.exe
+C:\Projetos\Estudos\Collections and Generics\ArrayListSample\ArrayListSample\obj\Debug\ArrayListSample.pdb

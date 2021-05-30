@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\InstallerDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\InstallerDemo\bin\Debug\InstallerDemo.dll
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\InstallerDemo\bin\Debug\InstallerDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\InstallerDemo\obj\Debug\InstallerDemo.dll
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\InstallerDemo\InstallerDemo\obj\Debug\InstallerDemo.pdb

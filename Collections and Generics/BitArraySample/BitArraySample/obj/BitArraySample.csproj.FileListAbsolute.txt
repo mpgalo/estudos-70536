@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Collections and Generics\BitArraySample\BitArraySample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Collections and Generics\BitArraySample\BitArraySample\bin\Debug\BitArraySample.exe
+C:\Projetos\Estudos\Collections and Generics\BitArraySample\BitArraySample\bin\Debug\BitArraySample.pdb
+C:\Projetos\Estudos\Collections and Generics\BitArraySample\BitArraySample\obj\Debug\BitArraySample.exe
+C:\Projetos\Estudos\Collections and Generics\BitArraySample\BitArraySample\obj\Debug\BitArraySample.pdb

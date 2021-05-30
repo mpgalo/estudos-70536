@@ -1,0 +1,5 @@
+C:\Projetos\ESTUDOS\70-536\Threading\ReaderWriterLockSample\ReaderWriterLockSample\bin\Debug\ReaderWriterLockSample.exe
+C:\Projetos\ESTUDOS\70-536\Threading\ReaderWriterLockSample\ReaderWriterLockSample\bin\Debug\ReaderWriterLockSample.pdb
+C:\Projetos\ESTUDOS\70-536\Threading\ReaderWriterLockSample\ReaderWriterLockSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Threading\ReaderWriterLockSample\ReaderWriterLockSample\obj\Debug\ReaderWriterLockSample.exe
+C:\Projetos\ESTUDOS\70-536\Threading\ReaderWriterLockSample\ReaderWriterLockSample\obj\Debug\ReaderWriterLockSample.pdb

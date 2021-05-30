@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample\BinaryTree\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Projetos\Estudos\70-536\Collections and Generics\IEnumerableSample\BinaryTree\obj\Debug\BinaryTree.pdb

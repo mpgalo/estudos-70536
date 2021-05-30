@@ -1,0 +1,10 @@
+C:\Projetos\Estudos\Collections and Generics\BasicCollection\BasicCollection\bin\Debug\BasicCollection.exe
+C:\Projetos\Estudos\Collections and Generics\BasicCollection\BasicCollection\bin\Debug\BasicCollection.pdb
+C:\Projetos\Estudos\Collections and Generics\BasicCollection\BasicCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Collections and Generics\BasicCollection\BasicCollection\obj\Debug\BasicCollection.exe
+C:\Projetos\Estudos\Collections and Generics\BasicCollection\BasicCollection\obj\Debug\BasicCollection.pdb
+C:\Projetos\Estudos\Collections and Generics\BasicArrayListCollection\BasicCollection\obj\Debug\BasicCollection.exe
+C:\Projetos\Estudos\Collections and Generics\BasicArrayListCollection\BasicCollection\obj\Debug\BasicCollection.pdb
+C:\Projetos\Estudos\Collections and Generics\BasicArrayListCollection\BasicCollection\bin\Debug\BasicCollection.exe
+C:\Projetos\Estudos\Collections and Generics\BasicArrayListCollection\BasicCollection\bin\Debug\BasicCollection.pdb
+C:\Projetos\Estudos\Collections and Generics\BasicArrayListCollection\BasicCollection\obj\Debug\ResolveAssemblyReference.cache

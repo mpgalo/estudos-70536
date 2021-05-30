@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\Collections and Generics\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+C:\Projetos\Estudos\Collections and Generics\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+C:\Projetos\Estudos\Collections and Generics\SequentialCollections\SequentialCollections\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\Collections and Generics\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+C:\Projetos\Estudos\Collections and Generics\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb

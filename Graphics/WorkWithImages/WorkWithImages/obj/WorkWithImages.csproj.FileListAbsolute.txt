@@ -1,0 +1,8 @@
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\obj\Debug\WorkWithImages.Form1.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\obj\Debug\WorkWithImages.Properties.Resources.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\obj\Debug\WorkWithImages.csproj.GenerateResource.Cache
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\bin\Debug\WorkWithImages.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\bin\Debug\WorkWithImages.pdb
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\obj\Debug\WorkWithImages.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\WorkWithImages\WorkWithImages\obj\Debug\WorkWithImages.pdb

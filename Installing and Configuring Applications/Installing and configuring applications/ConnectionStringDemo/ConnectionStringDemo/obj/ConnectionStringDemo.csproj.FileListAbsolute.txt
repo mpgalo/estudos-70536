@@ -1,0 +1,6 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConnectionStringDemo\ConnectionStringDemo\bin\Debug\ConnectionStringDemo.exe.config
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConnectionStringDemo\ConnectionStringDemo\bin\Debug\ConnectionStringDemo.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConnectionStringDemo\ConnectionStringDemo\bin\Debug\ConnectionStringDemo.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConnectionStringDemo\ConnectionStringDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConnectionStringDemo\ConnectionStringDemo\obj\Debug\ConnectionStringDemo.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\ConnectionStringDemo\ConnectionStringDemo\obj\Debug\ConnectionStringDemo.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\obj\Debug\BasicGrapi.Form1.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\obj\Debug\BasicGrapi.Properties.Resources.resources
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\obj\Debug\BasicGrapi.csproj.GenerateResource.Cache
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\bin\Debug\BasicGrapi.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\bin\Debug\BasicGrapi.pdb
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\obj\Debug\BasicGrapi.exe
+C:\Projetos\ESTUDOS\70-536\Graphics\BasicGraphics\BasicGrapi\BasicGrapi\obj\Debug\BasicGrapi.pdb

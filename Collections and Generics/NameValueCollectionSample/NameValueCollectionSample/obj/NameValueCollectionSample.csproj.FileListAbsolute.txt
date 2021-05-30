@@ -1,0 +1,5 @@
+C:\Projetos\Estudos\70-536\Collections and Generics\NameValueCollectionSample\NameValueCollectionSample\bin\Debug\NameValueCollectionSample.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\NameValueCollectionSample\NameValueCollectionSample\bin\Debug\NameValueCollectionSample.pdb
+C:\Projetos\Estudos\70-536\Collections and Generics\NameValueCollectionSample\NameValueCollectionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Estudos\70-536\Collections and Generics\NameValueCollectionSample\NameValueCollectionSample\obj\Debug\NameValueCollectionSample.exe
+C:\Projetos\Estudos\70-536\Collections and Generics\NameValueCollectionSample\NameValueCollectionSample\obj\Debug\NameValueCollectionSample.pdb

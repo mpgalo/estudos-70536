@@ -1,0 +1,5 @@
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\WriteManagementEventToLog\WriteManagementEventToLog\bin\Debug\WriteManagementEventToLog.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\WriteManagementEventToLog\WriteManagementEventToLog\bin\Debug\WriteManagementEventToLog.pdb
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\WriteManagementEventToLog\WriteManagementEventToLog\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\WriteManagementEventToLog\WriteManagementEventToLog\obj\Debug\WriteManagementEventToLog.exe
+D:\Documents and Settings\e060111\Meus documentos\Visual Studio 2005\Projects\mcts\Chapter10\WriteManagementEventToLog\WriteManagementEventToLog\obj\Debug\WriteManagementEventToLog.pdb

@@ -1,0 +1,6 @@
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConnectionStringDemo\ConnectionStringDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConnectionStringDemo\ConnectionStringDemo\bin\Debug\ConnectionStringDemo.exe.config
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConnectionStringDemo\ConnectionStringDemo\bin\Debug\ConnectionStringDemo.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConnectionStringDemo\ConnectionStringDemo\bin\Debug\ConnectionStringDemo.pdb
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConnectionStringDemo\ConnectionStringDemo\obj\Debug\ConnectionStringDemo.exe
+C:\Projetos\ESTUDOS\70-536\Installing and Configuring Applications\ConnectionStringDemo\ConnectionStringDemo\obj\Debug\ConnectionStringDemo.pdb
